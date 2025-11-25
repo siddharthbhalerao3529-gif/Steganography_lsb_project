@@ -43,7 +43,5 @@ This project implements **Least Significant Bit (LSB) steganography** in C to hi
 ---
 
 ## Usage
-
-### Encoding
-```bash
-./steganography encode --cover cover_image.bmp --data secret.txt --output encoded_image.bmp --password mypass123
+-Encoding
+-Decoding
