@@ -43,5 +43,7 @@ This project implements **Least Significant Bit (LSB) steganography** in C to hi
 ---
 
 ## Usage
--Encoding
--Decoding
+
+### Encoding
+- Encoding
+- decoding
